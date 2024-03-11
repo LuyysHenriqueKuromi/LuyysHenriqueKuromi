@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+luiz%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 
@@ -18,11 +18,11 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
 <div align="center" >
-  <a href="https://github.com/wendellast">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/luizlast">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=luizlast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/wendellast"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
+  <a href="https://github.com/luizlast"></a>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlast&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 <br><br>
@@ -80,22 +80,22 @@
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord" width="60" height="60"/></a>
-  <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram" width="60" height="60"/></a>
-  <a href="mailto:wendelalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email" width="60" height="60"/></a>
-  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin" width="60" height="60"/></a>
-  <a href="https://t.me/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram" width="60" height="60"/></a>
+  <a href="https://discordapp.com/users/luizlast"><img src="https://raw.githubusercontent.com/luizlast/luizlast/main/img/discord.png" alt="Discord" width="60" height="60"/></a>
+  <a href="https://www.instagram.com/luizlastwa/"><img src="https://raw.githubusercontent.com/luizlast/luizlast/main/img/instagram.png" alt="Instagram" width="60" height="60"/></a>
+  <a href="mailto:luizalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/luizlast/luizlast/main/img/email.png" alt="email" width="60" height="60"/></a>
+  <a href="https://www.linkedin.com/in/luiz-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/luizlast/luizlast/main/img/linkedin.png" alt="Linkedin" width="60" height="60"/></a>
+  <a href="https://t.me/luizlast"><img src="https://raw.githubusercontent.com/luizlast/luizlast/main/img/telegram.png" alt="Telegram" width="60" height="60"/></a>
 </p>
 
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
-  <a href="https://www.tabnews.com.br/wendellast" target="__blank"><img src="https://img.shields.io/badge/tabnews-FFFFFF?style=for-the-badge"></a>
+  <a href="https://www.tabnews.com.br/luizlast" target="__blank"><img src="https://img.shields.io/badge/tabnews-FFFFFF?style=for-the-badge"></a>
   <a  href="https://portfolio-nine-lovat-40.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
-  <a href="https://wendellast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
+  <a href="https://luizlast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
 
 <br>
 
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/wendellast)
+[![luiz Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizlast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/luizlast)
